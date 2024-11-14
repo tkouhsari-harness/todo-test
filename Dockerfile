@@ -14,4 +14,4 @@ RUN npm run test
 
 EXPOSE 3000
 
-CMD ["ts-node", "src/index.ts"]
+CMD ["ts-node", "src/index.ts"] 
