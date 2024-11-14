@@ -6,7 +6,7 @@ COPY package*.json ./
 
 RUN npm install -g ts-node
 
-RUN npm install
+RUN npm install 
 
 COPY . .
 
